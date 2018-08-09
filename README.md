@@ -41,7 +41,7 @@ Analiza uwzględna gry o sumie zero (czyli takich, gdzie wygrana jednego gracza 
 
 <p align='center'>Wyliczenia analizy</p>
 <img src='https://github.com/pawelbabiuch/unity-teoria_gier_praca_licencjacka/blob/master/Media/new-game.jpg' align='center' alt='game' />
-<img src='https://github.com//unity-teoria_gier_praca_licencjacka/blob/master/Media/result.jpg' align='center' alt='result' />
+<img src='https://github.com/pawelbabiuch/unity-teoria_gier_praca_licencjacka/blob/master/Media/result.jpg' align='center' alt='result' />
 <img src='https://github.com/pawelbabiuch/unity-teoria_gier_praca_licencjacka/blob/master/Media/graphics.jpg' align='center' alt='graph' />
   
 #
