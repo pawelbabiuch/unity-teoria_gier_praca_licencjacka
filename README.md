@@ -27,27 +27,31 @@ Analiza uwzględna gry o sumie zero (czyli takich, gdzie wygrana jednego gracza 
 
 ## Zrzuty ekranu
 
-<p align='center'>Główny ekran aplikacji</>
+<p align='center'>Główny ekran aplikacji</p>
 <img src='https://github.com/pawelbabiuch/unity-teoria_gier_praca_licencjacka/blob/master/Media/widok_aplikacji.jpg' align='center' alt='ekran glowny' />
+  
 #
 
-<p align='center'>Navbar</>
+<p align='center'>Navbar</p>
 <img src='https://github.com/pawelbabiuch/unity-teoria_gier_praca_licencjacka/blob/master/Media/navbar-app.jpg' align='center' alt='app' />
 <img src='https://github.com/pawelbabiuch/unity-teoria_gier_praca_licencjacka/blob/master/Media/navbar-games.jpg' align='center' alt='games' />
 <img src='https://github.com/pawelbabiuch/unity-teoria_gier_praca_licencjacka/blob/master/Media/navbar-help.jpg' align='center' alt='help' />
+  
 #
 
-<p align='center'>Wyliczenia analizy</>
+<p align='center'>Wyliczenia analizy</p>
 <img src='https://github.com/pawelbabiuch/unity-teoria_gier_praca_licencjacka/blob/master/Media/new-game.jpg' align='center' alt='game' />
 <img src='https://github.com//unity-teoria_gier_praca_licencjacka/blob/master/Media/result.jpg' align='center' alt='result' />
 <img src='https://github.com/pawelbabiuch/unity-teoria_gier_praca_licencjacka/blob/master/Media/graphics.jpg' align='center' alt='graph' />
+  
 #
 
-<p align='center'>Macierz gry</>
+<p align='center'>Macierz gry</p>
 <img src='https://github.com/pawelbabiuch/unity-teoria_gier_praca_licencjacka/blob/master/Media/matrix.jpg' align='center' alt='matrix' />
+  
 #
 
-<p align='center'>Logi z analizy</>
+<p align='center'>Logi z analizy</p>
 <img src='https://github.com/pawelbabiuch/unity-teoria_gier_praca_licencjacka/blob/master/Media/logs.jpg' align='center' alt='logs' />
 
 ## Wideo do prezentacji
