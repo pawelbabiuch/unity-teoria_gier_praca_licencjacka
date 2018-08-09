@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <playerA>GraczA</playerA>
+  <playerB>GraczB</playerB>
+  <rowStrategies>
+    <char>65</char>
+    <char>66</char>
+    <char>67</char>
+    <char>68</char>
+    <char>69</char>
+  </rowStrategies>
+  <colStrategies>
+    <char>65</char>
+    <char>66</char>
+  </colStrategies>
+  <matrix>
+    <int>4</int>
+    <int>-3</int>
+  </matrix>
+  <matrix>
+    <int>2</int>
+    <int>1</int>
+  </matrix>
+  <matrix>
+    <int>-1</int>
+    <int>3</int>
+  </matrix>
+  <matrix>
+    <int>0</int>
+    <int>-1</int>
+  </matrix>
+  <matrix>
+    <int>-3</int>
+    <int>0</int>
+  </matrix>
+</GameData>
